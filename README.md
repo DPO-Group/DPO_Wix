@@ -4,6 +4,9 @@
 This is the DPO Group method for Wix. Please feel free to contact the [DPO Group support team](https://dpogroup.com/contact-us/) should you require any assistance.
 
 ## Installation
+[![How To Setup DPO Group for Wix
+](https://appinlet.com/wp-content/uploads/2022/02/How-To-Setup-DPO-Group-for-Wix.jpg)](https://www.youtube.com/watch?v=Yu0VIInN5lQ "How To Setup DPO Group for Wix")
+
 Please navigate to the [releases page](https://github.com/DPO-Group/DPO_Wix/releases), download the latest release (v1.0.0). You will then be able to follow the integration guide PDF.
 
 ## About DPO
