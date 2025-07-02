@@ -1,14 +1,17 @@
 # DPO_Wix
-## DPO Group Wix method
 
-This is the DPO Group method for Wix. Please feel free to contact the [DPO Group support team](https://dpogroup.com/contact-us/) should you require any assistance.
+## DPO Pay for Wix
+
+This is the DPO Pay method for Wix. Please feel free to contact
+the [DPO Pay support team](https://dpogroup.com/contact-us/) should you require any assistance.
 
 ## Installation
 
-Please navigate to the [releases page](https://github.com/DPO-Group/DPO_Wix/releases), download the latest release (v1.0.0). You will then be able to follow the integration guide PDF.
+1. From your Wix Admin panel, click **Settings** > **Accept Payments**.
+2. Near the footer, click **More Payment Options**, then click **See Options** under **Direct Pay Online.** Click
+   **DPO Group** and then click **Connect**.
+3. Enter your Credentials and click the **Connect** button.
 
-## About DPO
+## Collaboration
 
-[DPO's](https://dpogroup.com/) highly secure payment platform makes payments simple by allowing businesses to accept credit cards, mobile payments and cross-border payments.
-
-Our mission is to bring African businesses the most advanced online and offline payment processing technologies, while supporting growth and financial inclusion. The DPO Group payment processing solution allows merchants to accept payments online & offline, settle payments, receive cash advances and enjoy seamless payment processing.
+Please submit pull requests with any tweaks, features or fixes you would like to share.
